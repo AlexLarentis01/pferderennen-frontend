@@ -4,6 +4,7 @@ class Pferd {
   int? intzurueckgelegterWeg;
 
   Pferd(
+    
       {required this.name,
       required this.geschwindigkeit,
       this.intzurueckgelegterWeg});
